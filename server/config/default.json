@@ -1,0 +1,7 @@
+{
+  "corsOtions": {
+    "origin": "http://localhost:3000"
+  },
+  "accessTokenPrivateKey":"d335d172195504f4f71fb7f62198abe2fd8fd3b33ba752dc6018982fa98969131de76db6a9796937abcbd446dae481f61d3001e46b2ca2e3c74141075aaf9305"
+
+}
