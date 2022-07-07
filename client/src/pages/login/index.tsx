@@ -40,8 +40,8 @@ const LoginPage = () => {
         />
       </Box>
 
-      <Box sx={{mt:"16px"}} >
-        <Button type="submit" fullWidth >LogIn</Button>
+      <Box sx={{mt:"36px",width:"150px" }} >
+        <Button type="submit" fullWidth={true} variant="contained" >LogIn</Button>
       </Box>
     </Box>
   );
